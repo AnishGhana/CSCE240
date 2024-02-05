@@ -1,2 +1,0 @@
-The result of + on 9 and 3 is below.
-12
