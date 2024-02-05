@@ -1,0 +1,6 @@
+Company: Berkshire Hathaway
+Statistics:
+  Lines: 16902
+  Words: 71696
+  Characters: 494472
+  Number of Parts: 4
