@@ -12,7 +12,7 @@ def print_to_file(start, end):
     # With isWithin we create a boolean value to determine whether the file reader is in between the beginning and end
     isWithin = False
     with open(fileName, "r", encoding='utf-8') as f:  # opens the file reader
-        with open("./prog2-processor/data/output.txt", "w", encoding='utf-8') as g:  # opens the file writer
+        with open("data/output.txt", "w", encoding='utf-8') as g:  # opens the file writer
             for line_i, line in enumerate(f, 1):
                 # checking the line to see if the start regex is contained within it
                 if regexStart.search(line):
@@ -34,11 +34,11 @@ def parse_user_input(user_input):
     # Check if the input matches either company
     if berkshire_pattern.search(user_input):
         company_name = "Berkshire Hathaway"
-        return "./prog2-processor/data/BerkshireHathaway.txt"
+        return "data/BerkshireHathaway.txt"
         # A Berkshire Hathaway 10-K that is just like the first project
     elif exxon_pattern.search(user_input):
         company_name = "Exxon Mobil"
-        return "./prog2-processor/data/ExxonMobil.txt"
+        return "data/ExxonMobil.txt"
         # A Exxon Mobil 10-K that is just like the first project
     else:
         print("Company not recognized.")
