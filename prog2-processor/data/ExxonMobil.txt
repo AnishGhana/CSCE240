@@ -56,7 +56,7 @@ Documents Incorporated by Reference: Proxy Statement for the 2023 Annual Meeting
 EXXON MOBIL CORPORATION
 FORM 10-K
 FOR THE FISCAL YEAR ENDED DECEMBER 31, 2022
-TABLE OF CONTENTS
+Table of Contents
 PART I
 Item 1. Business Description
 1
@@ -115,7 +115,7 @@ Exhibits 31 and 32 — Certifications
 
 PART I
 
-ITEM 1. BUSINESS
+Item 1. Business Description
 
 Exxon Mobil Corporation was incorporated in the State of New Jersey in 1882. Divisions and affiliated companies of ExxonMobil operate or market products in the United States and most other countries of the world. Our principal business involves exploration for, and production of, crude oil and natural gas; manufacture, trade, transport and sale of crude oil, natural gas, petroleum products, petrochemicals, and a wide variety of specialty products; and pursuit of lower-emission business opportunities including carbon capture and storage, hydrogen, and lower-emission fuels. Affiliates of ExxonMobil conduct extensive research programs in support of these businesses.
 Exxon Mobil Corporation has several divisions and hundreds of affiliates, many with names that include ExxonMobil, Exxon, Esso, Mobil or XTO. For convenience and simplicity, in this report the terms ExxonMobil, Exxon, Esso, Mobil, and XTO, as well as terms like Corporation, Company, our, we, and its, are sometimes used as abbreviated references to specific affiliates or groups of affiliates. The precise meaning depends on the context in question.
@@ -132,7 +132,7 @@ As discussed in item 1A. Risk Factors in this report, compliance with existing a
 Information concerning the source and availability of raw materials used in the Corporation’s business, the extent of seasonality in the business, the possibility of renegotiation of profits or termination of contracts at the election of governments, and risks attendant to foreign operations may be found in “Item 1A. Risk Factors” and “Item 2. Properties” in this report.
 ExxonMobil maintains a website at exxonmobil.com. Our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports filed or furnished pursuant to Section 13(a) of the Securities Exchange Act of 1934 are made available through our website as soon as reasonably practical after we electronically file or furnish the reports to the Securities and Exchange Commission (SEC). Also available on the Corporation’s website are the company’s Corporate Governance Guidelines, Code of Ethics and Business Conduct, and additional policies as well as the charters of the audit, compensation, and other committees of the Board of Directors. Information on our website is not incorporated into this report.
 The SEC maintains an internet site (http://www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
-ITEM 1A. RISK FACTORS
+Item 1A. RISK FACTORS
 
 ExxonMobil’s financial and operating results are subject to a variety of risks inherent in the global oil, gas, and petrochemical businesses, and the pursuit of lower-emission business opportunities. Many of these risk factors are not within the company’s control and could adversely affect our business, our financial and operating results, or our financial condition. These risk factors include:
 Supply and Demand
@@ -184,12 +184,12 @@ Insurance limitations. The ability of the Corporation to insure against many of 
 Competition. As noted in Item 1 above, the energy and petrochemical industries are highly competitive. We face competition not only from other private firms, but also from state-owned companies that are increasingly competing for opportunities outside of their home countries and as partners with other private firms. In some cases, these state-owned companies may pursue opportunities in furtherance of strategic objectives of their government owners, with less focus on financial returns than companies owned by private shareholders, such as ExxonMobil. Technology and expertise provided by industry service companies may also enhance the competitiveness of firms that may not have the internal resources and capabilities of ExxonMobil or reduce the need for resource-owning countries to partner with private-sector oil and gas companies in order to monetize national resources. As described in more detail above, our hydrocarbon-based energy products are also subject to growing and, in many cases, government-supported competition from alternative energy sources.
 Reputation. Our reputation is an important corporate asset. Factors that could have a negative impact on our reputation include an operating incident or significant cybersecurity disruption; changes in consumer views concerning our products; a perception by investors or others that the Corporation is making insufficient progress with respect to our ambition to play a leading role in the energy transition, or that pursuit of this ambition may result in allocation of capital to investments with reduced returns; and other adverse events such as those described in this Item 1A. Negative impacts on our reputation could in turn make it more difficult for us to compete successfully for new opportunities, obtain necessary regulatory approvals, obtain financing, and attract talent, or they could reduce consumer demand for our branded products. ExxonMobil’s reputation may also be harmed by events which negatively affect the image of our industry as a whole.
 Projections, estimates, and descriptions of ExxonMobil’s plans and objectives included or incorporated in Items 1, 1A, 2, 7, and 7A of this report are forward-looking statements. Actual future results, including project completion dates, production rates, capital expenditures, costs, and business plans could differ materially due to, among other things, the factors discussed above and elsewhere in this report.
-ITEM 1B. UNRESOLVED STAFF COMMENTS
+Item 1B. UNRESOLVED STAFF COMMENTS
 
 None.
 6
 
-ITEM 2. PROPERTIES
+Item 2. PROPERTIES
 
 Information with regard to oil and gas producing activities follows:
 
@@ -853,13 +853,13 @@ Due to rounding, numbers presented above may not add up precisely to the totals 
 
 27
 
-ITEM 3. LEGAL PROCEEDINGS
+Item 3. LEGAL PROCEEDINGS
 
 ExxonMobil has elected to use a $1 million threshold for disclosing environmental proceedings.
 On August 4, 2022, XTO Energy, Inc. (“XTO”) received a letter from the Department of Justice (“DOJ”) notifying XTO of the United States Environmental Protection Agency’s (“EPA”) request to initiate a potential civil action against XTO regarding the Schnegg well in Powhatan Point, Ohio. The letter did not quantify an associated civil penalty potentially sought by the DOJ. The EPA alleges XTO breached its duty under the General Duty Clause of the Clean Air Act for the Schnegg well, and such breaches resulted in the 2018 well blowout. Neither a civil action has been filed nor a draft consent decree has been provided by the DOJ. XTO is assessing the factual basis of the allegation and any associated penalties. In discussions in January 2023, the DOJ indicated it may seek a potential penalty substantially in excess of $1 million and XTO strongly disagrees with DOJ’s initial position.
 On November 21, 2022, the State of Texas, acting by and through its Attorney General (“State”), filed a complaint against the Corporation (captioned State of Texas v. Exxon Mobil Corporation) in Travis County District Court, TX, Cause No. D-1-GN-22-006534, for alleged violations of the Texas Clean Air Act at the Baytown Olefins Plant located in Baytown, Texas. The complaint seeks civil penalties for alleged unauthorized air pollution, unauthorized outdoor burning, nuisance, and unauthorized visible emissions associated with multiple alleged air emissions events between 2018 and 2022 in an amount in excess of $1 million and injunctive relief against the Corporation to enjoin a violation or threatened violation of any Texas Commission on Environmental Quality statute. The State also seeks to recover its fees and costs of litigation.
 Refer to the relevant portions of “Note 16: Litigation and Other Contingencies” of the Financial Section of this report for additional information on legal proceedings.
-ITEM 4. MINE SAFETY DISCLOSURES
+Item 4. MINE SAFETY DISCLOSURES
 
 Not applicable.
 28
@@ -927,7 +927,7 @@ Officers are generally elected by the Board of Directors at its meeting on the d
 29
 
 PART II
-ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+Item 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
 
 The principal market where ExxonMobil common stock (XOM) is traded is the New York Stock Exchange, although the stock is traded on other exchanges in and outside the United States.
 There were 310,437 registered shareholders of ExxonMobil common stock at December 31, 2022. At January 31, 2023, the registered shareholders of ExxonMobil common stock numbered 308,630.
@@ -953,17 +953,17 @@ Total 43,641,682 $107.14 41,123,519
 
 During the fourth quarter, the Corporation did not issue or sell any unregistered equity securities.
 
-ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
 
 Reference is made to the section entitled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Financial Section of this report.
 
-ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
 
 Reference is made to the section entitled “Market Risks” in the Financial Section of this report. All statements, other than historical information incorporated in this Item 7A, are forward-looking statements. The actual impact of future market changes could differ materially due to, among other things, factors discussed in this report.
 
 30
 
-ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
 
 Reference is made to the following in the Financial Section of this report:
 •Consolidated financial statements, together with the report thereon of PricewaterhouseCoopers LLP (PCAOB ID 238) dated February 22, 2023, beginning with the section entitled “Report of Independent Registered Public Accounting Firm” and continuing through “Note 20: Divestment Activities”;
@@ -971,11 +971,11 @@ Reference is made to the following in the Financial Section of this report:
 •“Frequently Used Terms” (unaudited).
 Financial Statement Schedules have been omitted because they are not applicable or the required information is shown in the consolidated financial statements or notes thereto.
 
-ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+Item 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
 
 None.
 
-ITEM 9A. CONTROLS AND PROCEDURES
+Item 9A. CONTROLS AND PROCEDURES
 
 Management’s Evaluation of Disclosure Controls and Procedures
 As indicated in the certifications in Exhibit 31 of this report, the Corporation’s Chief Executive Officer, Chief Financial Officer, and Principal Accounting Officer have evaluated the Corporation’s disclosure controls and procedures as of December 31, 2022. Based on that evaluation, these officers have concluded that the Corporation’s disclosure controls and procedures are effective in ensuring that information required to be disclosed by the Corporation in the reports that it files or submits under the Securities Exchange Act of 1934, as amended, is accumulated and communicated to them in a manner that allows for timely decisions regarding required disclosures and are effective in ensuring that such information is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms.
@@ -984,18 +984,18 @@ Management, including the Corporation’s Chief Executive Officer, Chief Financi
 PricewaterhouseCoopers LLP, an independent registered public accounting firm, audited the effectiveness of the Corporation’s internal control over financial reporting as of December 31, 2022, as stated in their report included in the Financial Section of this report.
 Changes in Internal Control Over Financial Reporting
 There were no changes during the Corporation’s last fiscal quarter that materially affected, or are reasonably likely to materially affect, the Corporation’s internal control over financial reporting.
-ITEM 9B. OTHER INFORMATION
+Item 9B. OTHER INFORMATION
 
 None.
 
-ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+Item 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
 
 Not applicable.
 
 31
 
 PART III
-ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+Item 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
 
 Reference is made to the section of this report titled “Information about our Executive Officers”.
 Incorporated by reference to the following from the registrant’s definitive proxy statement for the 2023 annual meeting of shareholders (the “2023 Proxy Statement”):
@@ -1003,11 +1003,11 @@ Incorporated by reference to the following from the registrant’s definitive pr
 •The portions entitled “Director Qualifications”, “Director Nomination Process and Board Succession”, and “Code of Ethics and Business Conduct” of the section entitled “Corporate Governance”; and
 •The “Director Independence” portion, “Board Meetings and Annual Meeting Attendance” portion, the membership table of the portion entitled “Board Committees”, the "Audit Committee" portion and the "Nominating and Governance Committee" portion of the section entitled “Corporate Governance”.
 
-ITEM 11. EXECUTIVE COMPENSATION
+Item 11. EXECUTIVE COMPENSATION
 
 Incorporated by reference to the sections entitled “Director Compensation”, “Compensation Committee Report”, “Compensation Discussion and Analysis”, “Executive Compensation Tables”, “Pay Ratio”, and "Pay Versus Performance" of the registrant’s 2023 Proxy Statement.
 
-ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+Item 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
 
 The information required under Item 403 of Regulation S-K is incorporated by reference to the sections “Certain Beneficial Owners” and “Director and Executive Officer Stock Ownership” of the registrant’s 2023 Proxy Statement.
 
@@ -1027,23 +1027,23 @@ Total 42,542,460 — 60,288,068
 
 32
 
-ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+Item 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
 
 Incorporated by reference to the portion entitled “Related Person Transactions and Procedures” of the section entitled “Director and Executive Officer Stock Ownership”; and the portion entitled “Director Independence” of the section entitled “Corporate Governance” of the registrant’s 2023 Proxy Statement.
 
-ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+Item 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
 
 Incorporated by reference to the portion entitled “Audit Committee” of the section entitled “Corporate Governance” and the section entitled “Ratification of Independent Auditors” of the registrant’s 2023 Proxy Statement.
 
 PART IV
-ITEM 15. EXHIBIT AND FINANCIAL STATEMENT SCHEDULES
+Item 15. EXHIBIT AND FINANCIAL STATEMENT SCHEDULES
 
 (a)(1) and (2) Financial Statements:
 See Table of Contents of the Financial Section of this report.
 (b)(3) Exhibits:
 See Index to Exhibits of this report.
 
-ITEM 16. FORM 10-K SUMMARY
+Item 16. FORM 10-K SUMMARY
 
 None.
 
