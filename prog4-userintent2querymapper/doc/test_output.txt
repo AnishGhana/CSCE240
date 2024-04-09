@@ -1,0 +1,59 @@
+The section names are case sensitive
+
+You can type Exxon Mobil or Berkshire Hathaway on the terminal in any sentence and the machine will store which company your are asking questions about.
+
+After this
+1."Company name" plus "business description" gets you Item 1.
+
+Ex: Tell about Berkshire Hathaway's business description. -->
+
+Item 1. Business Description
+1
+Item 1. Business Description
+
+Exxon Mobil Corporation was incorporated in the State of New Jersey in 1882. Divisions and affiliated companies of ExxonMobil operate or market products in the United States and most other countries of the world. Our principal business involves exploration for, and production of, crude oil and natural gas; manufacture, trade, transport and sale of crude oil, natural gas, petroleum products, petrochemicals, and a wide variety of specialty products; and pursuit of lower-emission business opportunities including carbon capture and storage, hydrogen, and lower-emission fuels. Affiliates of ExxonMobil conduct extensive research programs in support of these businesses.
+Exxon Mobil Corporation has several divisions and hundreds of affiliates, many with names that include ExxonMobil, Exxon, Esso, Mobil or XTO. For convenience and simplicity, in this report the terms ExxonMobil, Exxon, Esso, Mobil, and XTO, as well as terms like Corporation, Company, our, we, and its, are sometimes used as abbreviated references to specific affiliates or groups of affiliates. The precise meaning depends on the context in question.
+The energy and petrochemical industries are highly competitive, both within the industries and also with other industries in supplying the energy, fuel, and chemical needs of industrial and individual consumers. Certain industry participants, including ExxonMobil, are expanding investments in lower-emission energy and emission-reduction services and technologies. The Corporation competes with other firms in the sale or purchase of needed goods and services in many national and international markets and employs all methods of competition which are lawful and appropriate for such purposes.
+Operating data and industry segment information for the Corporation are contained in the Financial Section of this report under the following: “Management's Discussion and Analysis of Financial Condition and Results of Operations: Business Results” and “Note 18: Disclosures about Segments and Related Information”. Information on oil and gas reserves is contained in the “Oil and Gas Reserves” part of the “Supplemental Information on Oil and Gas Exploration and Production Activities” portion of the Financial Section of this report.
+ExxonMobil has a long-standing commitment to the development of proprietary technology. We have a wide array of research programs designed to meet the needs identified in each of our business segments. ExxonMobil held over 8 thousand active patents worldwide at the end of 2022. For technology licensed to third parties, revenues totaled approximately $129 million in 2022. Although technology is an important contributor to the overall operations and results of our Company, the profitability of each business segment is not dependent on any individual patent, trade secret, trademark, license, franchise, or concession.
+ExxonMobil operates in a highly complex, competitive, and changing global energy business environment where decisions and risks play out over time horizons that are often decades in length. This long-term orientation underpins the Corporation's philosophy on talent development.
+Talent development begins with recruiting exceptional candidates and continues with individually planned experiences and training designed to facilitate broad development and a deep understanding of our business across the business cycle. Our career-oriented approach to talent development results in strong retention and an average length of service of about 30 years for our career employees. Compensation, benefits, and workplace programs support the Corporation's talent management approach, and are designed to attract and retain employees for a career through compensation that is market competitive, long-term oriented, and highly differentiated by individual performance.
+Over 60 percent of our global employee workforce is from outside the U.S., and over the past decade 39 percent of our global hires for management, professional and technical positions were female and 35 percent of our U.S. hires for management, professional and technical positions were minorities. With over 160 nationalities represented in the company, we encourage and respect diversity of thought, ideas, and perspective from our workforce. We consider and monitor diversity through all stages of employment, including recruitment, training, and development of our employees. We also work closely with the communities where we operate to identify and invest in initiatives that help support local needs, including local talent and skill development.
+The number of regular employees was 62 thousand, 63 thousand, and 72 thousand at years ended 2022, 2021, and 2020, respectively. Regular employees are defined as active executive, management, professional, technical, and wage employees who work full time or part time for the Corporation and are covered by the Corporation’s benefit plans and programs.
+1
+
+As discussed in item 1A. Risk Factors in this report, compliance with existing and potential future government regulations, including taxes, environmental regulations, and other government regulations and policies that directly or indirectly affect the production and sale of our products, may have material effects on the capital expenditures, earnings, and competitive position of ExxonMobil. With respect to the environment, throughout ExxonMobil’s businesses, new and ongoing measures are taken to prevent and minimize the impact of our operations on air, water, and ground, including, but not limited to, compliance with environmental regulations. These include a significant investment in refining infrastructure and technology to manufacture clean fuels, as well as projects to monitor and reduce air, water, and waste emissions, and expenditures for asset retirement obligations. Using definitions and guidelines established by the American Petroleum Institute, ExxonMobil’s 2022 worldwide environmental expenditures for all such preventative and remediation steps, including ExxonMobil’s share of equity company expenditures, were $5.7 billion, of which $3.8 billion were included in expenses with the remainder in capital expenditures. As the Corporation progresses its emission-reduction plans, worldwide environmental expenditures are expected to increase to approximately $7.3 billion in 2023, with capital expenditures expected to account for approximately 46 percent of the total. Costs for 2024 are anticipated to increase to approximately $8.2 billion, with capital expenditures expected to account for approximately 51 percent of the total.
+
+2."Company name" plus "Risk Factors" gets you Item 1A.
+3."Company name" plus "Unresolved Staff Comments" gets you Item 1B.
+4."Company name" plus "Description of Properties" gets you Item 2.
+5."Company name" plus "Legal Proceedings" gets you Item 3.
+
+Ex: Tell about Berkshire Hathaway's legal proceedings. -->
+
+Item 3.
+
+Legal Proceedings
+
+K-30
+
+Item 3. Legal Proceedings
+
+Berkshire and its subsidiaries are parties in a variety of legal actions that routinely arise out of the normal course of business, including legal actions seeking to establish liability directly through insurance contracts or indirectly through reinsurance contracts issued by Berkshire subsidiaries. Plaintiffs occasionally seek punitive or exemplary damages. We do not believe that such normal and routine litigation will have a material effect on our financial condition or results of operations. Berkshire and certain of its subsidiaries are also involved in other kinds of legal actions, some of which assert or may assert claims or seek to impose fines and penalties. We currently believe that any liability that may arise as a result of other pending legal actions will not have a material effect on our consolidated financial condition or results of operations.
+
+
+6."Company name" plus "Mine Safety Disclosures" gets you Item 4.
+7."Company name" plus "Market for Registrant's Common Equity, Related Security Holder Matters and Issuer Purchases of Equity Securities" gets you Item 5.
+8."Company name" plus "Management’s Discussion and Analysis of Financial Condition and Results of Operations" gets you Item 7.
+9."Company name" plus "Quantitative and Qualitative Disclosures About Market Risk" gets you Item 7A.
+10."Company name" plus "Financial Statements and Supplementary Data" gets you Item 8.
+11."Company name" plus "Changes in and Disagreements with Accountants on Accounting and Financial Disclosure" gets you Item 9.
+12."Company name" plus "Controls and Procedures" gets you Item 9A.
+13."Company name" plus "Other Information" gets you Item 9B.
+14."Company name" plus "Exhibits and Financial Statement Schedules" gets you Item 15.
+15."Company name" plus "All Information" gets you the all of the information from the 10-K.
+
+Ex: Give all information for Exxon Mobil. --> Gives whole 10-K for Exxon Mobil
+
+The user can create sentences with many words to ask questions, but the code focuses on company and 10-K section names to provide information. It does not matter
+the order of the Company's name and section name.

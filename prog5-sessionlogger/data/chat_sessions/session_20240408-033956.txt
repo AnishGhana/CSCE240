@@ -1,0 +1,14 @@
+
+<ChatBot> : Welcome!
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : exxon mobil Controls and Procedures
+<ChatBot> : Maximum match Ratio: 1.0
+<ChatBot> : Best Query: Controls and Procedures
+<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : exxon mobil legal procedings
+<ChatBot> : Maximum match Ratio: 0.9696969696969697
+<ChatBot> : Best Query: Legal Proceedings
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<ChatBot> : Thank you. Bye!
+This program took 63.285363 seconds

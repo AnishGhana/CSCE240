@@ -1,0 +1,44 @@
+<ChatBot> : Welcome!
+
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+give me all of the information about exxon mobil
+
+<User> : give me all of the information about exxon mobil
+
+<ChatBot> : Maximum match Ratio: 0.8333333333333334
+
+<ChatBot> : Best Query: All Information
+
+<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.
+
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q:
+tell me about the ceo of exxon mobil
+
+<User> : tell me about the ceo of exxon mobil
+
+<ChatBot> : Match Ratio is below threshold. Please rephrase your query.
+
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q:
+Tell me about the CEO of exxon mobil
+
+<User> : Tell me about the CEO of exxon mobil
+
+<ChatBot> : Match Ratio is below threshold. Please rephrase your query.
+
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q:
+PS C:\Users\anish\OneDrive - University of South Carolina\Semester 2\CSCE 240\CSCE240>  c:; cd 'c:\Users\anish\OneDrive - University of South Carolina\Semester 2\CSCE 240\CSCE240'; & 'c:\Users\anish\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\anish\.vscode\extensions\ms-python.debugpy-2024.4.0-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '62750' '--' 'c:\Users\anish\OneDrive - University of South Carolina\Semester 2\CSCE 240\CSCE240\prog4-userintent2querymapper\code\pa4.py' 
+
+<ChatBot> : Welcome!
+
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q:
+CEO exxon mobil
+
+<User> : CEO exxon mobil
+
+<ChatBot> : Maximum match Ratio: 1.0
+
+<ChatBot> : Best Query: CEO
+
+<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.
+
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q:

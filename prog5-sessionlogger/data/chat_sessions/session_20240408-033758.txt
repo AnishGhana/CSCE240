@@ -1,0 +1,15 @@
+
+<ChatBot> : Welcome!
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : exxon mobil Executive Compensation
+<ChatBot> : Maximum match Ratio: 1.0
+<ChatBot> : Best Query: Executive Compensation
+<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : exxon mobil all information
+<ChatBot> : Maximum match Ratio: 1.0
+<ChatBot> : Best Query: All Information
+<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<ChatBot> : Thank you. Bye!
+This program took 36.021202 seconds

@@ -1,0 +1,20 @@
+
+<ChatBot> : Company not supported. Please mention Berkshire Hathaway or Exxon Mobil.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : What is the financial data for Exxon Mobil
+<ChatBot> : Maximum match Ratio: 1.0
+<ChatBot> : Best Query: financial data
+<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : give Berkshire hathaway Principal Accountant Fees and Services
+<ChatBot> : Maximum match Ratio: 1.0
+<ChatBot> : Best Query: Principal Accountant Fees and Services
+<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : risk factors of exxon mobil
+<ChatBot> : Maximum match Ratio: 1.0
+<ChatBot> : Best Query: Risk Factors
+<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<ChatBot> : Thank you. Bye!
+This program took 433.319478 seconds

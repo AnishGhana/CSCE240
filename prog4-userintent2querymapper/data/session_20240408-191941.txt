@@ -1,0 +1,8 @@
+
+<ChatBot> : Welcome!
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : tell me about the CEO of Exxon mobil
+<ChatBot> : Maximum match Ratio: 1.0
+<ChatBot> : Best Query: CEO
+<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 

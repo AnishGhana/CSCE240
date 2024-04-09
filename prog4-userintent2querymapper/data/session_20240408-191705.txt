@@ -1,0 +1,14 @@
+
+<ChatBot> : Welcome!
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : give me all of the information about exxon mobil
+<ChatBot> : Maximum match Ratio: 0.8333333333333334
+<ChatBot> : Best Query: All Information
+<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : tell me about the ceo of exxon mobil
+<ChatBot> : Match Ratio is below threshold. Please rephrase your query.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : Tell me about the CEO of exxon mobil
+<ChatBot> : Match Ratio is below threshold. Please rephrase your query.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 

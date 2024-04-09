@@ -1,0 +1,21 @@
+
+<ChatBot> : Welcome!
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : exxon mobil business description
+<ChatBot> : Maximum match Ratio: 1.0
+<ChatBot> : Best Query: Business Description
+<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : exxon mobil risk factors
+<ChatBot> : Maximum match Ratio: 1.0
+<ChatBot> : Best Query: Risk Factors
+<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : exxon mobil staff comments unres
+<ChatBot> : Match Ratio is below threshold. Please rephrase your query.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : exxon mobil unresolve staff comments 
+<ChatBot> : Maximum match Ratio: 0.96
+<ChatBot> : Best Query: Unresolved Staff Comments
+<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
