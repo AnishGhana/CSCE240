@@ -101,7 +101,7 @@ def print_to_file(company_file, start, end):
 
     logSessionMessage(
         "<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.")
-    with open(current_session, 'a') as f:
+    with open(current_session, 'a') as f:  # puts it in log
         f.write(
             "<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.\n")
     f.close()
@@ -134,7 +134,7 @@ def parse_user_input(user_input):
     if not companyFile:
         logSessionMessage(
             "<ChatBot> : Company not supported. Please mention Berkshire Hathaway or Exxon Mobil.")
-        with open(current_session, 'a') as f:
+        with open(current_session, 'a') as f:  # puts it in log
             f.write(
                 "<ChatBot> : Company not supported. Please mention Berkshire Hathaway or Exxon Mobil.\n")
         f.close()
@@ -144,7 +144,7 @@ def parse_user_input(user_input):
     if not os.path.exists(companyFile):
         logSessionMessage("<ChatBot> : Company File " + companyFile +
                           " does not exists in the current folder.")
-        with open(current_session, 'a') as f:
+        with open(current_session, 'a') as f:  # puts it in log
             f.write("<ChatBot> : Company File " + companyFile +
                     " does not exists in the current folder.\n")
         f.close()
@@ -157,18 +157,18 @@ def parse_user_input(user_input):
     if max_match_ratio < max_match_threshold:
         logSessionMessage(
             "<ChatBot> : Match Ratio is below threshold. Please rephrase your query.")
-        with open(current_session, 'a') as f:
+        with open(current_session, 'a') as f:  # puts it in log
             f.write(
                 "<ChatBot> : Match Ratio is below threshold. Please rephrase your query.\n")
         f.close()
         return None  # Return None if max match ratio is below threshold
 
     logSessionMessage(f"<ChatBot> : Maximum match Ratio: {max_match_ratio}")
-    with open(current_session, 'a') as f:
+    with open(current_session, 'a') as f:  # puts it in log
         f.write(f"<ChatBot> : Maximum match Ratio:  {max_match_ratio} \n")
     f.close()
     logSessionMessage(f"<ChatBot> : Best Query: {best_query}")
-    with open(current_session, 'a') as f:
+    with open(current_session, 'a') as f:  # puts it in log
         f.write(f"<ChatBot> : Best Query: {best_query} \n")
     f.close()
     # Check for section names related to the company
@@ -210,7 +210,7 @@ current_time = time.strftime("%Y%m%d-%H%M%S")
 current_session = "prog6/data/chat_sessions/session_" + current_time + ".txt"
 
 # Open the file in 'x' mode to create a new file
-with open(current_session, 'w') as f:
+with open(current_session, 'w') as f:  # puts it in log
     f.write("<ChatBot> Welcome\n")
 f.close()
 
@@ -228,14 +228,14 @@ while True:
     current_session = "../data/chat_sessions/session_" + current_time + ".txt"
     logSessionMessage(
         "<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, enter 'statistics' to open the chat statistics menu or enter Quit, quit or q: ")
-    with open(current_session, 'a') as f:
+    with open(current_session, 'a') as f:  # puts it in log
         f.write("<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, enter 'statistics' to open the chat statistics menu or enter Quit, quit or q:\n")
     f.close()
     user_input = input()
     check = True
     if (check):
         logSessionMessage("<User> : " + user_input)
-        with open(current_session, 'a') as f:
+        with open(current_session, 'a') as f:  # puts it in log
             f.write("<User> : " + user_input+"\n")
         f.close()
     parse_user_input(user_input)
@@ -246,12 +246,12 @@ while True:
     sessionTime = sessionEndTime - sessionBeginTime
     if user_input.upper() == "QUIT" or user_input.upper() == "Q":
         logSessionMessage("<ChatBot> : Thank you. Bye!")
-        with open(current_session, 'a') as f:
+        with open(current_session, 'a') as f:  # puts it in log
             f.write("<ChatBot> : Thank you. Bye!\n")
         f.close()
         logSessionMessage("This program took " +
                           str(sessionTime.total_seconds()) + " seconds")
-        with open(current_session, 'a') as f:
+        with open(current_session, 'a') as f:  # puts it in log
             f.write("This program took " +
                     str(sessionTime.total_seconds()) + " seconds")
         f.close()
