@@ -1,0 +1,11 @@
+<ChatBot> Welcome
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, enter 'statistics' to open the chat statistics menu or enter Quit, quit or q:
+<User> : exxon mobil risk factors
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, enter 'statistics' to open the chat statistics menu or enter Quit, quit or q:
+<User> : & C:/Users/anish/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/anish/OneDrive - University of South Carolina/Semester 2/CSCE 240/CSCE240/prog6/code/pa6.py"
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, enter 'statistics' to open the chat statistics menu or enter Quit, quit or q:
+<User> : exxon mobil business factors
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, enter 'statistics' to open the chat statistics menu or enter Quit, quit or q:
+<User> : q
+<ChatBot> : Thank you. Bye!
+This program took 76.231736 seconds

@@ -1,3 +1,12 @@
+The section names are case sensitive
+
+You can type Exxon Mobil or Berkshire Hathaway on the terminal in any sentence and the machine will store which company your are asking questions about.
+
+After this
+1."Company name" plus "business description" gets you Item 1.
+
+Ex: Tell about Berkshire Hathaway's business description. -->
+
 Item 1. Business Description
 1
 Item 1. Business Description
@@ -14,3 +23,37 @@ The number of regular employees was 62 thousand, 63 thousand, and 72 thousand at
 1
 
 As discussed in item 1A. Risk Factors in this report, compliance with existing and potential future government regulations, including taxes, environmental regulations, and other government regulations and policies that directly or indirectly affect the production and sale of our products, may have material effects on the capital expenditures, earnings, and competitive position of ExxonMobil. With respect to the environment, throughout ExxonMobil’s businesses, new and ongoing measures are taken to prevent and minimize the impact of our operations on air, water, and ground, including, but not limited to, compliance with environmental regulations. These include a significant investment in refining infrastructure and technology to manufacture clean fuels, as well as projects to monitor and reduce air, water, and waste emissions, and expenditures for asset retirement obligations. Using definitions and guidelines established by the American Petroleum Institute, ExxonMobil’s 2022 worldwide environmental expenditures for all such preventative and remediation steps, including ExxonMobil’s share of equity company expenditures, were $5.7 billion, of which $3.8 billion were included in expenses with the remainder in capital expenditures. As the Corporation progresses its emission-reduction plans, worldwide environmental expenditures are expected to increase to approximately $7.3 billion in 2023, with capital expenditures expected to account for approximately 46 percent of the total. Costs for 2024 are anticipated to increase to approximately $8.2 billion, with capital expenditures expected to account for approximately 51 percent of the total.
+
+2."Company name" plus "Risk Factors" gets you Item 1A.
+3."Company name" plus "Unresolved Staff Comments" gets you Item 1B.
+4."Company name" plus "Description of Properties" gets you Item 2.
+5."Company name" plus "Legal Proceedings" gets you Item 3.
+
+Ex: Tell about Berkshire Hathaway's legal proceedings. -->
+
+Item 3.
+
+Legal Proceedings
+
+K-30
+
+Item 3. Legal Proceedings
+
+Berkshire and its subsidiaries are parties in a variety of legal actions that routinely arise out of the normal course of business, including legal actions seeking to establish liability directly through insurance contracts or indirectly through reinsurance contracts issued by Berkshire subsidiaries. Plaintiffs occasionally seek punitive or exemplary damages. We do not believe that such normal and routine litigation will have a material effect on our financial condition or results of operations. Berkshire and certain of its subsidiaries are also involved in other kinds of legal actions, some of which assert or may assert claims or seek to impose fines and penalties. We currently believe that any liability that may arise as a result of other pending legal actions will not have a material effect on our consolidated financial condition or results of operations.
+
+
+6."Company name" plus "Mine Safety Disclosures" gets you Item 4.
+7."Company name" plus "Market for Registrant's Common Equity, Related Security Holder Matters and Issuer Purchases of Equity Securities" gets you Item 5.
+8."Company name" plus "Management’s Discussion and Analysis of Financial Condition and Results of Operations" gets you Item 7.
+9."Company name" plus "Quantitative and Qualitative Disclosures About Market Risk" gets you Item 7A.
+10."Company name" plus "Financial Statements and Supplementary Data" gets you Item 8.
+11."Company name" plus "Changes in and Disagreements with Accountants on Accounting and Financial Disclosure" gets you Item 9.
+12."Company name" plus "Controls and Procedures" gets you Item 9A.
+13."Company name" plus "Other Information" gets you Item 9B.
+14."Company name" plus "Exhibits and Financial Statement Schedules" gets you Item 15.
+15."Company name" plus "All Information" gets you the all of the information from the 10-K.
+
+Ex: Give all information for Exxon Mobil. --> Gives whole 10-K for Exxon Mobil
+
+The user can create sentences with many words to ask questions, but the code focuses on company and 10-K section names to provide information. It does not matter
+the order of the Company's name and section name.

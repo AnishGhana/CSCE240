@@ -1,0 +1,9 @@
+<ChatBot> Welcome
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, enter 'statistics' to open the chat statistics menu or enter Quit, quit or q:
+<User> : statistics
+<ChatBot> : Company not supported. Please mention Berkshire Hathaway or Exxon Mobil.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, enter 'statistics' to open the chat statistics menu or enter Quit, quit or q:
+<User> : q
+<ChatBot> : Company not supported. Please mention Berkshire Hathaway or Exxon Mobil.
+<ChatBot> : Thank you. Bye!
+This program took 65.325815 seconds

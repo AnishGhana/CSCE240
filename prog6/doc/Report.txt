@@ -1,0 +1,12 @@
+	This project was more difficult for me than the first one, 
+mostly due to the need to extensively use regular expressions in the project. I found myself using more complex 
+python tools so that I could fine tune the program so that it would accurately take in user data and output parts 
+of each company’s 10-K. I had two big methods, “parse_user_input” and “print_to_file”. I also had a “search” method. 
+They each did what they said, with me calling on “print_to_file” often. I also made sure to address some of the issues 
+I had with the last project, including having a greater number of comments. I realized that there are definitely 
+benefits to using python as a programming language, as there are more libraries to pull from, and many of the tools 
+provided in python are simpler to use than Java or C++. I have also realized that despite the expanse of content provided 
+by python, C++ simply allows for greater ability to fine tune code. I definitely spent more time on this project than the
+first one, but I believe my code is all the better for it. I had to use regex to make it quit.
+
+The section names are case sensitive

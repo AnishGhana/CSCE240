@@ -1,0 +1,18 @@
+
+<ChatBot> : Welcome!
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : what is fkdsj;fldsjk
+<ChatBot> : Company not supported. Please mention Berkshire Hathaway or Exxon Mobil.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : what is financial data for Berkshire hathaway
+<ChatBot> : Maximum match Ratio: 1.0
+<ChatBot> : Best Query: financial data
+<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<User> : other information for exxon mobil
+<ChatBot> : Maximum match Ratio: 1.0
+<ChatBot> : Best Query: Other Information
+<ChatBot> : Answer found and the answer is directed to output.txt file in data folder.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<ChatBot> : Thank you. Bye!
+This program took 43.4723 seconds

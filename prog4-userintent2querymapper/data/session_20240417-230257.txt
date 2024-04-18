@@ -1,0 +1,5 @@
+
+<ChatBot> : Welcome!
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, or enter Quit, quit or q: 
+<ChatBot> : Thank you. Bye!
+This program took 16.976922 seconds

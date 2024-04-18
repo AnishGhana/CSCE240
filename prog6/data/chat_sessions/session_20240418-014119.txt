@@ -1,0 +1,12 @@
+<ChatBot> Welcome
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, enter 'statistics' to open the chat statistics menu or enter Quit, quit or q:
+<User> : dog
+<ChatBot> : Company not supported. Please mention Berkshire Hathaway or Exxon Mobil.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, enter 'statistics' to open the chat statistics menu or enter Quit, quit or q:
+<User> : cat
+<ChatBot> : Company not supported. Please mention Berkshire Hathaway or Exxon Mobil.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, enter 'statistics' to open the chat statistics menu or enter Quit, quit or q:
+<User> : man
+<ChatBot> : Company not supported. Please mention Berkshire Hathaway or Exxon Mobil.
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, enter 'statistics' to open the chat statistics menu or enter Quit, quit or q:
+<User> : exxon mobil all information

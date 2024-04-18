@@ -1,0 +1,4 @@
+<ChatBot> Welcome
+<ChatBot> : Please enter a question about Berkshire Hathaway or Exxon Mobil, enter 'statistics' to open the chat statistics menu or enter Quit, quit or q:
+<User> : exxon mobil all information
+<ChatBot> : Maximum match Ratio:  {max_match_ratio} 
